@@ -1,0 +1,30 @@
+.logo-image{
+    width: 40px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+}
+
+.navigation ul{
+    display: flex;
+    
+}
+
+.nav-li{
+    margin-right: 100px;
+}    
+.container-box{
+   background-color: pink; 
+   display: flex;
+   justify-content: space-between;
+}
+.box{
+    width: 150px;
+    height: 300px;
+    background-color: purple;
+    border: 2px solid  black;
+}
