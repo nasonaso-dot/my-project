@@ -33,13 +33,13 @@ header{
    height: 800px;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   
 }
 .bg-image::before{
     content:'';
     width: 100%;
-    height: 90%;
+    height: 100%;
     background-color:black;
     display: block;
     opacity: 50%;
